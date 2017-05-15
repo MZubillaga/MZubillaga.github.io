@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maryajose Zubillaga</title>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<header>
+		<h1 id="slogan"> The Junior Developer Look</h1>
+
+		<nav>
+			<a href="#">Home</a>
+			<a href="#">Education</a>
+			<a href="#">Background</a>
+			<a href="#">Portfolio</a>
+		</nav>
+	</header>
+
+	<main>
+		<p>Liberal Arts educated millenial transitioning into a well-rounded developer. Current  skillset in HTML + CSS through guided General Assembly Circuits training; furthering skills with jQuery and JavaScript. So what makes me have the look? Explore and find out.</p>
+	</main>
+
+	<br>
+	Education:
+	<ul id="schools">
+		<li>Bachelor of Arts in Sociology and French from Oglethorpe University (Atlanta, Georgia). </li>
+		<li>HTML, CSS, and Web Development Certificte from General Assembly.</li>
+	</ul>
+	<br>
+
+	<br>
+	Background:
+	<p>As I mentioned, I am transitioning into the web development field, giving me a fresh and unbiased perspective. Since I come from a predominantly humanities background, I have mastered transferable skills that can compliment my new-found web developing skills. Some of the skills include:</p>
+	<br>
+	<ul>	
+		<li>Bilingual (Spanish, English)</li>
+		<li>Great interpersonal skills</li>
+		<li>Constantly evolving</li>
+		<li>Challenge driven</li>
+		<li>Eager learner</li>
+	</ul>
+	
+	<p>Wrap all of the above with a fresh-faced web developer and you gain a powerhouse- one who can be both in front and behind the screen.</p>
+
+	<br>
+	Portfolio:
+	<p>Will you be the one to help me fill these blank spaces?</p>
+
+	<footer>
+		<p>Contact me:
+		<br>
+		<a href="mailto:zubillaga.mj@gmail.com?subject= You%20Have%20The%20Look">zubillaga.mj@gmail.com</a></p>
+	</footer>
+</body>
+</html>
